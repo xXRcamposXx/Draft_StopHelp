@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-weight: bold;
+
+}
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    background: linear-gradient(0deg, #b5cde1, #4682B4); 
+    
+}
+.divprincipal{
+    background: white;
+    border-radius: 25px;
+}
+.form{
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.login{
+    
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: none;
+    border-bottom: 2px solid grey;
+    width:60%;
+    height: 50%;
+    border-radius: 10px;
+    padding:10px;
+/*    background-color: #4682B4; */
+    
+}
+.atributo{
+/*    background-color: #4682B4;*/
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    border: none;
+    border-radius: 10px;
+}
+.btLogin{
+    background-color:  #4682B4;
+    height: 60px;
+    width: 300px;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 50px;
+}
+#btAtr{
+   
+    padding-bottom: 20px 
+}
+.ResetPass{
+    align-content: right;
+    background-color: white;
+    border: none;
+    padding-bottom: 10px;
+}
+.AtrLabel{
+    text-align: left;
+}
+.BtEsqueceuSenha{
+    align-content: left;
+}

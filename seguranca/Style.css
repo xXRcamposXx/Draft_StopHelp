@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&family=Poiret+One&display=swap');
+
+footer {
+    justify-content: space-around;
+    background: #4682B4;
+    color: #fff;
+    height: 10vh;
+    align-items: center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    background-color: #F0FFFF;
+}
+
+h1 {
+    font-family: 'Nanum Myeongjo', serif;
+    font-family: 'Poiret One', cursive;
+    color: #363636;
+
+}
+
+.a1 {
+    max-height: 50vh;
+    max-width: 100%;
+    display: flex;
+    border: none;
+    background-color: #D3D3D3;
+    text-align: justify;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-size: 19px;
+
+}
+
+.txt {
+    max-width: 50%;
+}
+
+.a2 {
+    max-height: 50vh;
+    max-width: 100%;
+    display: flex;
+    border: none;
+    background-color: #D3D3D3;
+    text-align: justify;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-size: 19px;
+}
+
+.a3 {
+    max-height: 50vh;
+    max-width: 100%;
+    display: flex;
+    border: none;
+    background-color: #D3D3D3;
+    text-align: justify;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-size: 19px;
+}
+
+.a4 {
+    max-height: 50vh;
+    max-width: 100%;
+    display: flex;
+    border: none;
+    background-color: #D3D3D3;
+    text-align: justify;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-size: 19px;
+}
+
+.a5 {
+    max-height: 50vh;
+    max-width: 100%;
+    display: flex;
+    border: none;
+    background-color: #D3D3D3;
+    text-align: justify;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-size: 19px;
+}
+
+.a6 {
+    max-height: 50vh;
+    max-width: 100%;
+    display: flex;
+    border: none;
+    background-color: #D3D3D3;
+    text-align: justify;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-size: 19px;
+}
+
+.a7 {
+    max-height: 50vh;
+    max-width: 100%;
+    display: flex;
+    border: none;
+    background-color: #D3D3D3;
+    text-align: justify;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-size: 19px;
+}
+
+.a8 {
+    max-height: 50vh;
+    max-width: 100%;
+    display: flex;
+    border: none;
+    background-color: #D3D3D3;
+    text-align: justify;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-size: 19px;
+}
+
+.a9 {
+    max-height: 50vh;
+    max-width: 100%;
+    display: flex;
+    border: none;
+    background-color: #D3D3D3;
+    text-align: justify;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-size: 19px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+a:hover {
+    opacity: 0.5;
+    letter-spacing: 0.8px;
+}
+
+logomarca {
+    margin-left: 0px;
+    border-left: 0px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #4682B4;
+    height: 10vh;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #4682B4;
+    height: 10vh;
+}

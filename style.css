@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: arial;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #4682B4;     
+}
+.container{
+    width: 80%;
+    height: 80vh;
+    display: flex;
+    box-shadow: 5px 5px 10px rgba(0,0,0, .212);
+}
+.anexo{
+    width: 50%;
+	height: 150%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFAF0;
+    padding: 1rem;
+}
+form{
+    width: 85vh;
+    height: 150%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #F8F8FF;
+    padding: 3rem;
+}
+.form-header{
+    margin-bottom: 3rem;
+    display: flex;
+    justify-content: space-between;
+      
+}
+.login-button{
+    display: flex;
+    align-items: center;
+
+}
+.login-button button{
+    border: none;
+    background-color:  #008080;
+    padding: 0.4rem 1rem;
+    border-radius: 5px;
+    cursor: poiter;
+}
+.login-button button:hover{
+     opacity: 0.5;
+    letter-spacing: 0.8px;
+}
+.login-button button a{
+    text-decoration: none;
+    font-weight: 500;
+    color: #fff;
+}
+.form-header h1::after{
+    content: '';
+    display: block;
+    width: 5rem;
+    height: 0.2rem;
+    background-color: #008080;
+    margin: 0 auto;
+    position: absolute;
+    border-radius: 10px;
+}
+.input-group{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 1rem 0;
+    }
+.input-box{
+    display:flex;
+    flex-direction: column;
+    margin-bottom: 0.5rem;
+        
+    }
+    .input-box input{
+        margin: 0.6rem 0;
+        padding:0.2rem 0.5rem;
+        border:none;
+        border-radius: 10px;
+        box-shadow: 1px 1px 6px #00001c;
+        
+    }
